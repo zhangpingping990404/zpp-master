@@ -14,4 +14,4 @@ eureka:
       defaultZone: http://localhost:5000/eureka/
 mybatis:
   type-aliases-package: zpp.entity
-   mapperLocations: classpath:mybatis/*.xml
+  mapperLocations: classpath:mybatis/*.xml
